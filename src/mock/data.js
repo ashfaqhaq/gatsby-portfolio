@@ -25,7 +25,7 @@ export const aboutData = {
     "Currently focussing on being a fullstack developer to convert my ideas into products. I started learning React during the pandemic and haven't turned back yet!",
   paragraphThree:
     "My other interests include watching Anime, reading about Psychology and Product Design. I am also the current Creative Lead of college's founding developer club.",
-  resume: 'https://drive.google.com/file/d/1yj8eSL4sVQsK5ZYj1C7WG9f466gTu3SO/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/11USGTahCbqCsjx0LeJi4WOqNchF8fSQk/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
