@@ -19,13 +19,12 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne:
-    'I am final year undergraduate student, my passion for coding has been developed as I stuck around playing games when I was in school.',
-  paragraphTwo:
-    "Currently focussing on being a fullstack developer to convert my ideas into products. I started learning React during the pandemic and haven't turned back yet!",
-  paragraphThree:
-    "My other interests include watching Anime, reading about Psychology and Product Design. I am also the current Creative Lead of college's founding developer club.",
-  resume: 'https://drive.google.com/file/d/1t-V6J-J4F4b3KI8gScmj2UQBMc6T8NzJ/view?usp=sharing', // if no resume, the button will not show up
+  paragraphOne: "Software Engineer with 2+ years of experience in an early-stage startup, specializing in building Micro SaaS products. Proven ability to lead feature builds and expert proficiency in MERN stack development.",
+  paragraphTwo: "I'm deeply passionate about coding and committed to honing my skills as a fullstack developer. I began my coding journey by learning React during the pandemic and haven't looked back since. During my college days, I earned NPTEL certifications and developed a Reddit bot.",
+  paragraphThree: "Beyond coding, I have a keen interest in Anime, Psychology, and Product Design. I hold NPTEL certifications and completed a Reddit bot project during my college days.",
+  resume: 'https://rxresu.me/ashfaqhaq94/ashfaq',
+
+
 };
 
 // PROJECTS DATA
@@ -40,6 +39,28 @@ export const projectsData = [
     url: 'https://dev9823.d20d8jqjompjzi.amplifyapp.com',
     repo: 'https://github.com/ashfaqhaq/podcast-notes', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'project4.png',
+    title: 'Reddit bot',
+    info:
+      'Designed, developed, and deployed an automated system integrating Youtube API and Reddit API (PRAW) to process and    generate content and extend functionality for a major online    social networking platform that was hosted on heroku.',
+    info2: '',
+    url: 'https://www.reddit.com/user/PewdStatus',
+    repo: 'https://github.com/waleedj99/Redditbot/', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'https://cdn.hashnode.com/res/hashnode/image/upload/v1630493773975/hqqREwJjI.png?auto=compress,format&format=webp',
+    title: 'Curate-Roadmaps',
+    info:
+      'Built an open-source application for structured learning and resource sharing using React, Auth0, Nestjs, and MongoDB. Designed to provide a seamless user experience.',
+    info2: 'The landing page includes an informative animation, with a simple and intuitive interface for users. Upon joining, users can explore resources.',
+    url: 'https://curate-roadmaps.netlify.app',
+    repo: 'https://github.com/ashfaqhaq/curate-frontend',
+  },
+
+
   {
     id: nanoid(),
     img: 'project5.png',
@@ -80,16 +101,7 @@ export const projectsData = [
     url: 'https://bookquest.netlify.app',
     repo: 'https://github.com/ashfaqhaq/BookQuest', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'project4.png',
-    title: 'Reddit bot',
-    info:
-      'Designed, developed, and deployed an automated system integrating Youtube API and Reddit API (PRAW) to process and    generate content and extend functionality for a major online    social networking platform that was hosted on heroku.',
-    info2: '',
-    url: 'https://www.reddit.com/user/PewdStatus',
-    repo: 'https://github.com/waleedj99/Redditbot/', // if no repo, the button will not show up
-  },
+
 ];
 
 // CONTACT DATA
