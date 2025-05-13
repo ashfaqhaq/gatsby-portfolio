@@ -19,7 +19,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: "Software Engineer with 2+ years of experience in an early-stage startup, specializing in building Micro SaaS products. Proven ability to lead feature builds and expert proficiency in MERN stack development.",
+  paragraphOne: "Software Engineer with 4+ years of experience, including as a founding engineer at an early-stage startup, specializing in building Micro SaaS products. Skilled in leading feature development with expertise in the MERN stack.",
   paragraphTwo: "I'm deeply passionate about coding and committed to honing my skills as a fullstack developer. I began my coding journey by learning React during the pandemic and haven't looked back since. During my college days, I earned NPTEL certifications and developed a Reddit bot.",
   paragraphThree: "Beyond coding, I have a keen interest in Anime, Psychology, and Product Design. I hold NPTEL certifications and completed a Reddit bot project during my college days.",
   resume: 'https://rxresu.me/ashfaqhaq94/ashfaq',
